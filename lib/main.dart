@@ -8,6 +8,7 @@ void main() {
       theme: ThemeData(
         primaryColor: Colors.red,
         accentColor: Colors.yellowAccent,
+        fontFamily: 'serif',
       ),
       home: SplashScreen(),
     ),
